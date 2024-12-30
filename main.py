@@ -38,10 +38,10 @@ for id, caminho in enumerate(caminhos):
     if id == 0:
         pages.append(st.Page(page=caminho, title=f"ID:{bd['id'].loc[0]} Fotos "))
     else:
-        pages.append(st.Page(page=caminho, title=f"ID:{bd['id'].loc[id-1]} »»» VER FOTOS "))
+        pages.append(st.Page(page=caminho, title=f"ID:{bd['id'].loc[id-1]} »»» {st.markdown('**VER FOTOS**')} "))
 
 
-pg = st.navigation(pages)
+pg = st.navigation(pages, position='hidden')
 pg.run()
 
 tamanho_fixo = (300, 300)
@@ -58,7 +58,6 @@ for i in range(0, len(images), colunas_por_linha):
         with cols[j]:
             bloco = st.container(border=True, key=cont + 10)
             with bloco:
-                st.write(f"./image/{bd['image'].loc[cont]}")
                 imagem = Image.open(os.path.join(f"./image/{bd['image'].loc[cont]}").lower())
                 imagem_resized = imagem.resize(tamanho_fixo, Image.Resampling.LANCZOS)
                 st.image(imagem_resized)
@@ -74,6 +73,7 @@ for i in range(0, len(images), colunas_por_linha):
                     st.markdown(f"""<b style='font-size:20px'>{bd['area'].loc[cont]:.0f}m²</b> 📐<b style='font-size:10px'>ÁREA.</b>""", unsafe_allow_html=True)
                     st.markdown(f"""<b style='font-size:20px'>{bd['banheiro'].loc[cont]:.0f}</b> 🚽<b style='font-size:10px'>BANHEIROS.</b>""", unsafe_allow_html=True)
                     st.markdown(f"""<b style='font-size:20px'>{bd['vaga'].loc[cont]:.0f}</b> 🚘<b style='font-size:10px'>VAGAS.</b>""", unsafe_allow_html=True)
+                    st.page_link(label='Visitar', page='https://linktr.ee/imoveisfelipecarlos?fbclid=PAZXh0bgNhZW0CMTEAAaY0dJ3FL0eO8Z8ja4Yva-1PmZjEcyrmoAhD-599O3C1mekzS1po-Va6jow_aem_dNdNNOYRiW-W4r82YOZO3A', use_container_width=True)
         cont += 1
 
 
