@@ -59,7 +59,7 @@ for i in range(0, len(images), colunas_por_linha):
             bloco = st.container(border=True, key=cont + 10)
             with bloco:
                 st.write(f"./image/{bd['image'].loc[cont]}")
-                imagem = Image.open(os.path.join(f"./image/{bd['image'].loc[cont]}"))
+                imagem = Image.open(os.path.join(f"./image/{bd['image'].loc[cont]}").lower())
                 imagem_resized = imagem.resize(tamanho_fixo, Image.Resampling.LANCZOS)
                 st.image(imagem_resized)
                 col1, col2 = st.columns([2, 2])
