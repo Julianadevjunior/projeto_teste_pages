@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="589cfbf3-56ff-4037-b6c9-16011c4032ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/projeto_teste_pages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.~lock.bd.csv#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bd.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/arquivo_32.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_15.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_16.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_17.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_18.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_19.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_20.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_21.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_23.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_24.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_25.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_26.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_27.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_28.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_29.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_30.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_31.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_46.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_47.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_48.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_49.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_50.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_51.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_52.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_53.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_54.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_55.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_56.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_57.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/house_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/house_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/house_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2qndsQ5DjJdxwI4SLJFb7QMEZsw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jucar\Documents\projeto_teste_pages\image\image_3" />
+      <recent name="C:\Users\jucar\Documents\projeto_teste_pages\image" />
+      <recent name="C:\Users\jucar\Documents\projeto_teste_pages" />
+      <recent name="C:\Users\jucar\Documents\projeto_teste_pages\image\imege_2" />
+      <recent name="C:\Users\jucar\Documents\projeto_teste_pages\image\image_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="projeto_teste_pages" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="589cfbf3-56ff-4037-b6c9-16011c4032ca" name="Changes" comment="" />
+      <created>1735302478510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735302478510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
