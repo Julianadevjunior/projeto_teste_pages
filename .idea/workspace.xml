@@ -4,67 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="589cfbf3-56ff-4037-b6c9-16011c4032ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/projeto_teste_pages.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.~lock.bd.csv#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bd.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/arquivo_32.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_10.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_1/arquivo_9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_13.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_14.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_15.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_16.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_17.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_18.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_19.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_20.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_21.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_22.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_23.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_24.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_25.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_26.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_27.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_28.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_29.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_30.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_2/arquivo_31.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_46.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_47.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_48.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_49.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_50.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_51.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_52.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_53.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_54.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_55.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_56.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image_3/arquivo_57.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/house_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/house_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/house_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="589cfbf3-56ff-4037-b6c9-16011c4032ca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

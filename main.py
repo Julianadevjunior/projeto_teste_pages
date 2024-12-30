@@ -58,7 +58,7 @@ for i in range(0, len(images), colunas_por_linha):
         with cols[j]:
             bloco = st.container(border=True, key=cont + 10)
             with bloco:
-                imagem = Image.open(os.path.join(f"./image/{bd['image'].loc[cont]}"))
+                imagem = Image.open(os.path.join(fr"./image/{bd['image'].loc[cont]}"))
                 imagem_resized = imagem.resize(tamanho_fixo, Image.Resampling.LANCZOS)
                 st.image(imagem_resized)
                 col1, col2 = st.columns([2, 2])
