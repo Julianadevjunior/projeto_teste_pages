@@ -38,7 +38,7 @@ for id, caminho in enumerate(caminhos):
     if id == 0:
         pages.append(st.Page(page=caminho, title=f"ID:{bd['id'].loc[0]} Fotos "))
     else:
-        pages.append(st.Page(page=caminho, title=f"ID:{bd['id'].loc[id-1]} »»» {st.markdown('**VER FOTOS**')} "))
+        pages.append(st.Page(page=caminho, title=f"ID:{bd['id'].loc[id-1]} »»» {st.markdown('**VER FOTOS**', unsafe_allow_html=True)}"))
 
 
 pg = st.navigation(pages, position='hidden', expanded=False)
