@@ -41,7 +41,7 @@ for id, caminho in enumerate(caminhos):
         pages.append(st.Page(page=caminho, title=f"ID:{bd['id'].loc[id-1]} »»» {st.markdown('**VER FOTOS**')} "))
 
 
-pg = st.navigation(pages, position='hidden')
+pg = st.navigation(pages, position='hidden', expanded=False)
 pg.run()
 
 tamanho_fixo = (300, 300)
